@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+}
+body{
+    color: forestgreen;
+    background-color: darkred;
+    font-family: Impact;
+    text-align: center;
+}
+h1{
+    color: steelblue;
+    font-family: monospace;
+    font-size: 300%
+}
